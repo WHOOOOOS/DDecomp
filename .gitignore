@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.ckpt
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.log
+wandb/
+outputs/
+results/
+checkpoints/
